@@ -1,1 +1,4 @@
+git add .github/workflows/
+git commit -m "ci: harden WASM build and artifact upload workflows with safe directory guards"
+git push origin verify-and-wasm-fix
 
